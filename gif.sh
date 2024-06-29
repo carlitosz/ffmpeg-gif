@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # ==== Globals ======================================================================
-FFMPEG=/usr/local/bin/ffmpeg            # Path to ffmpeg
-GIFSICLE=/usr/local/bin/gifsicle        # Path to gifsicle
+FFMPEG=/opt/homebrew/bin/ffmpeg         # Path to ffmpeg
+GIFSICLE=/opt/homebrew/bin/gifsicle     # Path to gifsicle
 PALETTE_DIR=~/Desktop/palette.png       # Where to save palette
 OUTPUT_DIR=~/Desktop/output.gif         # Where to save the gif
 OPTIMIZED_DIR=~/Desktop/optimized.gif   # Where to save the optimized gif
